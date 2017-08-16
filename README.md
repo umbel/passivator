@@ -1,0 +1,1 @@
+This is a hackathon project from September 2016 demonstrating how profiles could be pulled into an Umbel property from Twitter based on a geographic area and/or hashtag, plus some light sentiment analysis of the tweets.
